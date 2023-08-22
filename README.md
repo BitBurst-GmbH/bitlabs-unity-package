@@ -1,3 +1,3 @@
 # BitLaby Unity SDK
 
-Please read our  [Documentation](https://bitlabs.ai/unity-sdk-integration/) for additional information
+Please read our  [Documentation](https://developer.bitlabs.ai/docs/unity-sdk-v3) for additional information
