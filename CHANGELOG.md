@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.1.6
+- Remove External Offerwall opening in iOS
+
 ## 3.1.5
 - **Bug fix:** Webview opening in-app when offers are available
 
