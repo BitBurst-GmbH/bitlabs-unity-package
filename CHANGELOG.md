@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.1.7
+- **Bug fix:** Close Offerwall button disappears after returning from a Survey 
+
 ## 3.1.6
 - Remove External Offerwall opening in iOS
 
