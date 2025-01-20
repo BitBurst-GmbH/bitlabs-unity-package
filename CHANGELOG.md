@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.2.2
+
+- **Add Sentry crash Reporting**
+- **\[Android] Enable back functionality to WebView**
+- **Bug fixes**
+
 ## 3.2.1
 
 - **Under the hood improvements:** Relating to Requests andUser Agent
