@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.2.3
+
+- **Change survey opening mechanism**
+- **Update EDM4U to the v1.2.183**
+
 ## 3.2.2
 
 - **Add Sentry crash Reporting**
