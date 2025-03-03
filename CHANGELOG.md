@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.2.4
+
+- **fix(android)**: system bars overlap with UI in Android 15
+- **prevent Offerwall to go into landscape**
+
 ## 3.2.3
 
 - **Change survey opening mechanism**
